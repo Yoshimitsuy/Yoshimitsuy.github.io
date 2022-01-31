@@ -1,0 +1,29 @@
+h1{
+    font-family: 
+    Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: monospace;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(226, 159, 226);
+}
+
+#letraA {
+    font-size: 30px;
+}
+
+#letraB {
+    font-size: 40px;
+}
+
+#letraC {
+    font-size: 25px;
+}
+
+#letraD {
+    font-size: 35px;
+}
